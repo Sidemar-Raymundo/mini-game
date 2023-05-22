@@ -1,5 +1,6 @@
 from turtle import Turtle
 # iniciar uma turtle 
+# eu que fiz 
 t = Turtle()
 # Definir a velocidade
 t.speed(1)
